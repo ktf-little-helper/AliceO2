@@ -1,0 +1,8 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/TPC/include/DataFormatsTPC/CompressedClusters.h" name="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/TPC/include/DataFormatsTPC/CompressedClusters.h">
+<area shape="rect" id="node2" href="$d3/d64/CompressedClustersHelpers_8h.html" title="Helper for the CompressedClusters container. " alt="" coords="153,139,376,224"/>
+<area shape="rect" id="node3" href="$d3/dc9/CompressedClusters_8cxx.html" title="Container to store compressed TPC cluster data. " alt="" coords="5,272,244,343"/>
+<area shape="rect" id="node4" href="$df/d64/testCompressedClusters_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/DataFormats/Detectors\l/TPC/test/testCompressedClusters.cxx" alt="" coords="272,272,543,343"/>
+<area shape="rect" id="node5" href="$da/d78/CATrackerSpec_8cxx.html" title="Processor spec for running TPC CA tracking. " alt="" coords="450,146,631,217"/>
+<area shape="rect" id="node6" href="$d9/d03/EntropyEncoderSpec_8cxx.html" title="ProcessorSpec for the TPC cluster entropy encoding. " alt="" coords="656,146,865,217"/>
+<area shape="rect" id="node7" href="$d0/d80/TPC_2workflow_2src_2RecoWorkflow_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/workflow\l/src/RecoWorkflow.cxx" alt="" coords="890,146,1071,217"/>
+</map>

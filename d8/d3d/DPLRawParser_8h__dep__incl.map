@@ -1,0 +1,11 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Framework/Utils/include/DPLUtils/DPLRawParser.h" name="/home/travis/build/AliceO2Group/AliceO2/Framework/Utils/include/DPLUtils/DPLRawParser.h">
+<area shape="rect" id="node2" href="$dd/df6/RawPixelDecoder_8cxx.html" title="Alpide pixel reader for raw data processing. " alt="" coords="5,124,292,195"/>
+<area shape="rect" id="node3" href="$d0/d75/DataDecoderSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Workflow\l/src/DataDecoderSpec.cxx" alt="" coords="317,124,549,195"/>
+<area shape="rect" id="node4" href="$dd/da0/digits-sink-workflow_8cxx.html" title="This is an executable that dumps to a file on disk the digits received via DPL. " alt="" coords="573,124,805,195"/>
+<area shape="rect" id="node5" href="$db/d1c/file-to-digits-workflow_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Workflow\l/src/file&#45;to&#45;digits&#45;workflow.cxx" alt="" coords="829,124,1061,195"/>
+<area shape="rect" id="node6" href="$d1/dc9/RawDecoderSpec_8cxx.html" title="Data processor spec for MID raw decoder device. " alt="" coords="1085,124,1311,195"/>
+<area shape="rect" id="node7" href="$d3/d09/testRawReaderWriter_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/Raw/test/testRawReader\lWriter.cxx" alt="" coords="1336,124,1588,195"/>
+<area shape="rect" id="node8" href="$da/d78/CATrackerSpec_8cxx.html" title="Processor spec for running TPC CA tracking. " alt="" coords="1613,124,1794,195"/>
+<area shape="rect" id="node9" href="$d4/d96/raw-parser_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Utils/src/raw\l&#45;parser.cxx" alt="" coords="1819,124,2001,195"/>
+<area shape="rect" id="node10" href="$d0/d6f/test__DPLRawParser_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Utils/test\l/test_DPLRawParser.cxx" alt="" coords="2025,124,2203,195"/>
+</map>

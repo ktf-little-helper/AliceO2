@@ -1,0 +1,47 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node2576 [label="TNamed",height=0.2,width=0.4,color="grey75"];
+  Node2576 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="AliTPCPoissonSolver",height=0.2,width=0.4,color="black",URL="$dc/def/classAliTPCPoissonSolver.html"];
+  Node2576 -> Node2578 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2578 [label="CorrelationContainer",height=0.2,width=0.4,color="black",URL="$d8/d8f/classCorrelationContainer.html"];
+  Node2576 -> Node2579 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2579 [label="o2::cpv::GeometryParams",height=0.2,width=0.4,color="black",URL="$d2/d97/classo2_1_1cpv_1_1GeometryParams.html"];
+  Node2576 -> Node2580 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2580 [label="o2::detectors::AlignParam",height=0.2,width=0.4,color="black",URL="$dc/d50/classo2_1_1detectors_1_1AlignParam.html"];
+  Node2576 -> Node2581 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2581 [label="o2::field::MagneticWrapper\lChebyshev",height=0.2,width=0.4,color="black",URL="$db/d53/classo2_1_1field_1_1MagneticWrapperChebyshev.html"];
+  Node2576 -> Node2582 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2582 [label="o2::math_utils::Chebyshev3D",height=0.2,width=0.4,color="black",URL="$da/dd1/classo2_1_1math__utils_1_1Chebyshev3D.html"];
+  Node2576 -> Node2583 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2583 [label="o2::math_utils::Chebyshev3\lDCalc",height=0.2,width=0.4,color="black",URL="$df/d49/classo2_1_1math__utils_1_1Chebyshev3DCalc.html"];
+  Node2576 -> Node2584 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2584 [label="o2::mft::Geometry",height=0.2,width=0.4,color="black",URL="$d8/db1/classo2_1_1mft_1_1Geometry.html"];
+  Node2576 -> Node2585 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2585 [label="o2::mft::HalfDetector",height=0.2,width=0.4,color="black",URL="$d6/daf/classo2_1_1mft_1_1HalfDetector.html"];
+  Node2576 -> Node2586 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2586 [label="o2::mft::HalfDisk",height=0.2,width=0.4,color="black",URL="$d6/d53/classo2_1_1mft_1_1HalfDisk.html"];
+  Node2576 -> Node2587 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2587 [label="o2::mft::Ladder",height=0.2,width=0.4,color="black",URL="$d6/d35/classo2_1_1mft_1_1Ladder.html"];
+  Node2576 -> Node2588 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2588 [label="o2::mft::VSegmentation",height=0.2,width=0.4,color="black",URL="$d5/db8/classo2_1_1mft_1_1VSegmentation.html"];
+  Node2588 -> Node2589 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2589 [label="o2::mft::ChipSegmentation",height=0.2,width=0.4,color="black",URL="$d1/d8e/classo2_1_1mft_1_1ChipSegmentation.html"];
+  Node2588 -> Node2590 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2590 [label="o2::mft::HalfDiskSegmentation",height=0.2,width=0.4,color="black",URL="$d2/ddf/classo2_1_1mft_1_1HalfDiskSegmentation.html"];
+  Node2588 -> Node2591 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2591 [label="o2::mft::HalfSegmentation",height=0.2,width=0.4,color="black",URL="$d2/da0/classo2_1_1mft_1_1HalfSegmentation.html"];
+  Node2588 -> Node2592 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2592 [label="o2::mft::LadderSegmentation",height=0.2,width=0.4,color="black",URL="$df/dc2/classo2_1_1mft_1_1LadderSegmentation.html"];
+  Node2576 -> Node2593 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2593 [label="o2::phos::GeometryParams",height=0.2,width=0.4,color="black",URL="$d4/d4b/classo2_1_1phos_1_1GeometryParams.html"];
+  Node2576 -> Node2594 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2594 [label="StepTHnBase",height=0.2,width=0.4,color="black",URL="$d2/d46/classStepTHnBase.html"];
+  Node2594 -> Node2595 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2595 [label="StepTHn\< TemplateArray,\l TemplateType \>",height=0.2,width=0.4,color="black",URL="$d7/ddd/classStepTHn.html"];
+}

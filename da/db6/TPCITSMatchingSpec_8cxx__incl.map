@@ -1,0 +1,69 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/GlobalTrackingWorkflow/src/TPCITSMatchingSpec.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/GlobalTrackingWorkflow/src/TPCITSMatchingSpec.cxx">
+<area shape="rect" id="node5" href="$d2/d43/ControlService_8h.html" title="Framework/ControlService.h" alt="" coords="7951,131,8156,158"/>
+<area shape="rect" id="node6" href="$de/dc6/ConfigParamRegistry_8h.html" title="Framework/ConfigParamRegistry.h" alt="" coords="280,385,523,411"/>
+<area shape="rect" id="node12" href="$da/d20/TPCITSMatchingSpec_8h.html" title="GlobalTrackingWorkflow\l/TPCITSMatchingSpec.h" alt="" coords="2517,124,2696,165"/>
+<area shape="rect" id="node20" href="$d5/dc9/TrackTPC_8h.html" title="DataFormatsTPC/TrackTPC.h" alt="" coords="5871,385,6078,411"/>
+<area shape="rect" id="node29" href="$de/dcd/ClusterNative_8h.html" title="Class of a TPC cluster in TPC&#45;native coordinates (row, time) " alt="" coords="7433,474,7669,501"/>
+<area shape="rect" id="node36" href="$d2/df9/Propagator_8h.html" title="DetectorsBase/Propagator.h" alt="" coords="5875,295,6077,322"/>
+<area shape="rect" id="node40" href="$d5/d1e/TrackTPCITS_8h.html" title="Result of refitting TPC&#45;ITS matched track. " alt="" coords="5321,288,5524,329"/>
+<area shape="rect" id="node46" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="3482,467,3651,508"/>
+<area shape="rect" id="node48" href="$d1/d62/DataFormats_2Detectors_2ITSMFT_2common_2include_2DataFormatsITSMFT_2Cluster_8h.html" title="DataFormatsITSMFT/Cluster.h" alt="" coords="8072,474,8285,501"/>
+<area shape="rect" id="node49" href="$d0/dc6/ITSMFT_2common_2include_2DataFormatsITSMFT_2ROFRecord_8h.html" title="DataFormatsITSMFT/ROFRecord.h" alt="" coords="6437,385,6675,411"/>
+<area shape="rect" id="node50" href="$d1/d71/TrackITS_8h.html" title="Definition of the ITS track. " alt="" coords="3239,385,3435,411"/>
+<area shape="rect" id="node52" href="$d1/d2b/ClusterNativeHelper_8h.html" title="Helper class to read the binary format of TPC ClusterNative. " alt="" coords="4441,377,4665,419"/>
+<area shape="rect" id="node54" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="4382,467,4551,508"/>
+<area shape="rect" id="node62" href="$db/d9a/MatchTPCITSParams_8h.html" title="Configurable params for TPC ITS matching. " alt="" coords="4220,295,4487,322"/>
+<area shape="rect" id="node70" href="$df/de4/CompCluster_8h.html" title="Definition of the ITSMFT compact cluster. " alt="" coords="5,385,256,411"/>
+<area shape="rect" id="node82" href="$d3/d09/TPCSectorHeader_8h.html" title="DataFormatsTPC/TPCSector\lHeader.h" alt="" coords="7255,377,7457,419"/>
+<area shape="rect" id="node83" href="$db/dcc/Detectors_2Base_2include_2DetectorsBase_2GeometryManager_8h.html" title="DetectorsBase/GeometryManager.h" alt="" coords="8785,385,9039,411"/>
+<area shape="rect" id="node93" href="$d4/d35/DPLAlpideParam_8h.html" title="ITSMFTBase/DPLAlpideParam.h" alt="" coords="6954,295,7177,322"/>
+<area shape="rect" id="node94" href="$da/db1/ITS_2tracking_2include_2ITStracking_2IOUtils_8h.html" title="ITStracking/IOUtils.h" alt="" coords="5595,295,5749,322"/>
+<area shape="rect" id="node99" href="$d7/d61/NameConf_8h.html" title="Definition of the Names Generator class. " alt="" coords="9429,377,9657,419"/>
+<area shape="rect" id="node7" href="$df/d72/ParamRetriever_8h.html" title="Framework/ParamRetriever.h" alt="" coords="363,474,573,501"/>
+<area shape="rect" id="node14" href="$d3/dac/MatchTPCITS_8h.html" title="Class to perform TPC ITS matching. " alt="" coords="3804,213,4023,240"/>
+<area shape="rect" id="node32" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="7834,563,8046,590"/>
+<area shape="rect" id="node66" href="$d1/d08/TopologyDictionary_8h.html" title="Definition of the ClusterTopology class. " alt="" coords="875,288,1090,329"/>
+<area shape="rect" id="node72" href="$d0/df4/DataProcessorSpec_8h.html" title="Framework/DataProcessorSpec.h" alt="" coords="2040,295,2275,322"/>
+<area shape="rect" id="node80" href="$df/d4f/Task_8h.html" title="Framework/Task.h" alt="" coords="2537,295,2676,322"/>
+<area shape="rect" id="node21" href="$d7/d8b/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2Track_8h.html" title="ReconstructionDataFormats\l/Track.h" alt="" coords="5125,467,5328,508"/>
+<area shape="rect" id="node28" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="5683,474,5963,501"/>
+<area shape="rect" id="node42" href="$d4/d5d/Bracket_8h.html" title="Class to represent an interval and some operations over it. " alt="" coords="2431,563,2582,590"/>
+<area shape="rect" id="node43" href="$d6/ddf/EvIndex_8h.html" title="Class to store event ID and index in the event for objects like track, cluster... ..." alt="" coords="2784,645,3011,672"/>
+<area shape="rect" id="node44" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="7127,467,7359,508"/>
+<area shape="rect" id="node47" href="$d1/d22/TreeStreamRedirector_8h.html" title="CommonUtils/TreeStreamRedirector.h" alt="" coords="3140,645,3407,672"/>
+<area shape="rect" id="node51" href="$d4/d57/RecPoints_8h.html" title="Definition of the FIT RecPoints class. " alt="" coords="6103,385,6311,411"/>
+<area shape="rect" id="node59" href="$d4/d9f/RecoGeomHelper_8h.html" title="Declarations of the helper class for clusters / roadwidth matching. " alt="" coords="3043,467,3255,508"/>
+<area shape="rect" id="node61" href="$d4/db1/TPCFastTransform_8h.html" title="Definition of TPCFastTransform class. " alt="" coords="598,295,749,322"/>
+<area shape="rect" id="node34" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="5962,563,6139,590"/>
+<area shape="rect" id="node35" href="$d5/da8/dEdxInfo_8h.html" title="DataFormatsTPC/dEdxInfo.h" alt="" coords="5454,474,5658,501"/>
+<area shape="rect" id="node22" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="5473,563,5639,590"/>
+<area shape="rect" id="node25" href="$d4/de2/BaseCluster_8h.html" title="ReconstructionDataFormats\l/BaseCluster.h" alt="" coords="8073,556,8276,597"/>
+<area shape="rect" id="node27" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="5961,645,6141,672"/>
+<area shape="rect" id="node33" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="7457,563,7599,590"/>
+<area shape="rect" id="node37" href="$d3/d9d/PhysicsConstants_8h.html" title="Header to collect physics constants. " alt="" coords="6751,385,7027,411"/>
+<area shape="rect" id="node38" href="$d6/db1/TrackLTIntegral_8h.html" title="Track Length and TOF integral. " alt="" coords="5321,377,5524,419"/>
+<area shape="rect" id="node39" href="$d9/da9/MatLayerCylSet_8h.html" title="Declarations for the wrapper for the set of cylindrical material layers. " alt="" coords="7693,467,7896,508"/>
+<area shape="rect" id="node41" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="6087,474,6337,501"/>
+<area shape="rect" id="node45" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="7136,563,7389,590"/>
+<area shape="rect" id="node53" href="$d8/dc8/ClusterGroupAttribute_8h.html" title="Meta data for a group describing it by sector number and global padrow. " alt="" coords="4830,467,5050,508"/>
+<area shape="rect" id="node60" href="$d3/dba/SegmentationAlpide_8h.html" title="Definition of the SegmentationAlpide class. " alt="" coords="3591,563,3839,590"/>
+<area shape="rect" id="node63" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="2671,467,2868,508"/>
+<area shape="rect" id="node65" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="4220,377,4417,419"/>
+<area shape="rect" id="node67" href="$de/dc1/ClusterPattern_8h.html" title="DataFormatsITSMFT/Cluster\lPattern.h" alt="" coords="4841,377,5044,419"/>
+<area shape="rect" id="node68" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="750,385,903,411"/>
+<area shape="rect" id="node73" href="$d0/d14/AlgorithmSpec_8h.html" title="Framework/AlgorithmSpec.h" alt="" coords="2313,385,2519,411"/>
+<area shape="rect" id="node74" href="$d0/d1c/ConfigParamSpec_8h.html" title="Framework/ConfigParamSpec.h" alt="" coords="1567,385,1790,411"/>
+<area shape="rect" id="node75" href="$d1/df2/DataProcessorLabel_8h.html" title="Framework/DataProcessorLabel.h" alt="" coords="1814,385,2053,411"/>
+<area shape="rect" id="node76" href="$d5/dfb/DataRef_8h.html" title="Framework/DataRef.h" alt="" coords="2077,385,2238,411"/>
+<area shape="rect" id="node77" href="$d5/d3f/InputSpec_8h.html" title="Framework/InputSpec.h" alt="" coords="1267,385,1442,411"/>
+<area shape="rect" id="node78" href="$db/d2d/OutputSpec_8h.html" title="Framework/OutputSpec.h" alt="" coords="3959,385,4145,411"/>
+<area shape="rect" id="node79" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="4189,474,4358,501"/>
+<area shape="rect" id="node81" href="$d9/d7f/CallbackService_8h.html" title="Framework/CallbackService.h" alt="" coords="2695,385,2910,411"/>
+<area shape="rect" id="node90" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="6461,467,6689,508"/>
+<area shape="rect" id="node92" href="$db/dba/MatCell_8h.html" title="Declarations for material properties of the cell (voxel) " alt="" coords="8310,474,8493,501"/>
+<area shape="rect" id="node95" href="$d3/d59/Configuration_8h.html" title="ITStracking/Configuration.h" alt="" coords="3865,474,4063,501"/>
+<area shape="rect" id="node96" href="$dc/d8d/ITS_2tracking_2include_2ITStracking_2ROframe_8h.html" title="ITStracking/ROframe.h" alt="" coords="3714,385,3883,411"/>
+<area shape="rect" id="node97" href="$d3/dc8/Label_8h.html" title="ITStracking/Label.h" alt="" coords="5599,385,5745,411"/>
+<area shape="rect" id="node98" href="$d4/d5a/ITS_2tracking_2include_2ITStracking_2Road_8h.html" title="ITStracking/Road.h" alt="" coords="6959,474,7102,501"/>
+<area shape="rect" id="node100" href="$d4/d8f/StringUtils_8h.html" title="CommonUtils/StringUtils.h" alt="" coords="9721,474,9916,501"/>
+</map>
